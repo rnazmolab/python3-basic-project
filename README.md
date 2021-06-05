@@ -4,6 +4,14 @@
 
 - Update documents (`README.md`)
   - ref: https://github.com/rnazmolab/golang-basic-project
+- Add `requirements.txt`
+- Add `setup.py`
+  - ref:
+    - [navdeep-G/samplemod](https://github.com/navdeep-G/samplemod)
+    - [kennethreitz/setup.py: 📦 A Human's Ultimate Guide to setup.py.](https://github.com/kennethreitz/setup.py)
+- Add lint
+- Add test
+- Add CI with GitHub Actions
 
 ## Purpose of this repo
 
@@ -55,5 +63,9 @@ pip 20.3.4 from /usr/lib/python3/dist-packages/pip (python 3.9)
 TODO:
 
 ## Ref
+
+[Structuring Your Project — The Hitchhiker's Guide to Python](https://docs.python-guide.org/writing/structure/)
+
+[navdeep-G/samplemod](https://github.com/navdeep-G/samplemod)
 
 TODO:
